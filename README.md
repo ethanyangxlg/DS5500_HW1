@@ -1,3 +1,3 @@
 # DS5500_HW1
 
-All the answers and relevant code could be found in the 
+All the answers and relevant code could be found in the DS5500_HW1.ipython
